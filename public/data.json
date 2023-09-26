@@ -1,0 +1,134 @@
+[
+  {
+    "id": 1,
+    "title": "Fitness Essentials",
+    "img": "https://i.ibb.co/K0j6PLP/Health.png",
+    "category": "Health",
+    "background_color": "#0052ff26",
+    "text_color": "#0052FF",
+    "category_bg_color": "#0052ff33",
+    "price": 19.99,
+    "description": "Enhance your well-being with our top-quality Health products. From fitness gear to nutritional supplements, we provide all you need to stay in peak condition. Explore a wide range of items to support your journey to a healthier you."
+  },
+  {
+    "id": 2,
+    "title": "Gourmet Delights",
+    "img": "https://i.ibb.co/LkRs6fw/Food.png",
+    "category": "Food",
+    "background_color": "#f8714726",
+    "text_color": "#F87147",
+    "category_bg_color": "#f8714733",
+    "price": 29.99,
+    "description": "Indulge in culinary delights with our Food category. From mouthwatering recipes to essential kitchen tools, we've got all you need to elevate your cooking game. Savor delicious meals every day."
+  },
+  {
+    "id": 3,
+    "title": "Fashion Forward",
+    "img": "https://i.ibb.co/G2nRRdv/Clothing.png",
+    "category": "Clothing",
+    "background_color": "#79c23f26",
+    "text_color": "#79C23F",
+    "category_bg_color": "#79c23f33",
+    "price": 49.99,
+    "description": "Step into the world of fashion with our Clothing collection. From timeless classics to the latest trends, express your unique style confidently. Upgrade your wardrobe and make a statement in every outfit."
+  },
+  {
+    "id": 4,
+    "title": "Lifelong Learning",
+    "img": "https://i.ibb.co/Rh6jtq9/Education.png",
+    "category": "Education",
+    "background_color": "#ff444a26",
+    "text_color": "#FF444A",
+    "category_bg_color": "#ff444a33",
+    "price": 9.99,
+    "description": "Invest in your future with our Educational Resources. From online courses to informative books, we provide tools to expand your knowledge and skills. Empower yourself with quality educational materials for lifelong learning."
+  },
+  {
+    "id": 5,
+    "title": "Wellness Solutions",
+    "img": "https://i.ibb.co/K0j6PLP/Health.png",
+    "category": "Health",
+    "background_color": "#0052ff26",
+    "text_color": "#0052FF",
+    "category_bg_color": "#0052ff33",
+    "price": 14.99,
+    "description": "Prioritize your health journey with our top-quality Health products. Find the tools and support you need to stay active and maintain a balanced lifestyle. Achieve your wellness goals and feel your best."
+  },
+  {
+    "id": 6,
+    "title": "Culinary Mastery",
+    "img": "https://i.ibb.co/LkRs6fw/Food.png",
+    "category": "Food",
+    "background_color": "#f8714726",
+    "text_color": "#F87147",
+    "category_bg_color": "#f8714733",
+    "price": 24.99,
+    "description": "Elevate your cooking game with our Food category. Unleash your culinary creativity with our wide selection of recipes, kitchen tools, and gourmet ingredients. Make mealtime an adventure in taste."
+  },
+  {
+    "id": 7,
+    "title": "Style Elegance",
+    "img": "https://i.ibb.co/G2nRRdv/Clothing.png",
+    "category": "Clothing",
+    "background_color": "#79c23f26",
+    "text_color": "#79C23F",
+    "category_bg_color": "#79c23f33",
+    "price": 39.99,
+    "description": "Explore the world of fashion with our Clothing collection. Stay in vogue and discover clothing that fits your unique style, from classic elegance to the latest trends. Express yourself with confidence in every outfit."
+  },
+  {
+    "id": 8,
+    "title": "Knowledge Hub",
+    "img": "https://i.ibb.co/Rh6jtq9/Education.png",
+    "category": "Education",
+    "background_color": "#ff444a26",
+    "text_color": "#FF444A",
+    "category_bg_color": "#ff444a33",
+    "price": 19.99,
+    "description": "Enhance your knowledge and skills with educational resources in our Education category. Dive into a world of learning with courses, books, and materials designed to empower you with knowledge and expertise for lifelong growth."
+  },
+  {
+    "id": 9,
+    "title": "Holistic Health",
+    "img": "https://i.ibb.co/K0j6PLP/Health.png",
+    "category": "Health",
+    "background_color": "#0052ff26",
+    "text_color": "#0052FF",
+    "category_bg_color": "#0052ff33",
+    "price": 17.99,
+    "description": "Transform your well-being with our top-quality Health products. Discover a wide range of items, from fitness gear to supplements, to help you stay in peak condition. Prioritize your health journey today!"
+  },
+  {
+    "id": 10,
+    "title": "Gastronomic Adventures",
+    "img": "https://i.ibb.co/LkRs6fw/Food.png",
+    "category": "Food",
+    "background_color": "#f8714726",
+    "text_color": "#F87147",
+    "category_bg_color": "#f8714733",
+    "price": 27.99,
+    "description": "Uncover culinary treasures with our Food category. Explore mouthwatering recipes, top-quality ingredients, and kitchen essentials that make cooking a pleasure. Create delicious meals to share with loved ones."
+  },
+  {
+    "id": 11,
+    "title": "Trendy Wardrobe",
+    "img": "https://i.ibb.co/G2nRRdv/Clothing.png",
+    "category": "Clothing",
+    "background_color": "#79c23f26",
+    "text_color": "#79C23F",
+    "category_bg_color": "#79c23f33",
+    "price": 59.99,
+    "description": "Stay ahead in the world of fashion with our Clothing collection. Find a style that resonates with your personality and dress confidently for any occasion. Be the trendsetter in your social circle today!"
+  },
+  {
+    "id": 12,
+    "title": "Educational Enrichment",
+    "img": "https://i.ibb.co/Rh6jtq9/Education.png",
+    "category": "Education",
+    "background_color": "#ff444a26",
+    "text_color": "#FF444A",
+    "category_bg_color": "#ff444a33",
+    "price": 14.99,
+    "description": "Unlock your potential with educational resources in our Education category. Discover a wealth of knowledge in various formats, from courses to books, designed to guide your personal and professional growth. Empower yourself today!"
+  }
+]
