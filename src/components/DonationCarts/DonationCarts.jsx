@@ -12,7 +12,7 @@ const DonationCarts = () => {
   // console.log(donationCarts);
   return (
     <>
-      <div className="grid grid-cols-1 gap-5 px-10 my-10 lg:my-20 lg:gap-7 md:grid-cols-2 lg:grid-cols-4 lg:px-20 md:px-16">
+      <div className="grid grid-cols-1 gap-5 px-6 my-10 lg:my-20 lg:gap-7 md:grid-cols-2 lg:grid-cols-4 lg:px-20 md:px-8">
         {donationCarts.map((donationCart) => (
           <DonationCart
             key={donationCart.id}
