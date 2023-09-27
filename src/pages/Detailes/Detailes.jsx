@@ -24,7 +24,7 @@ const Detailes = () => {
       const isExits = donateItems.find((items) => items.id === parseInt(id));
       // console.log(isExits);
       if (!isExits) {
-        donateItemsList.push(data);
+        donateItemsList.push(...donateItems, data);
         localStorage.setItem("donateItems", JSON.stringify(donateItemsList));
         swal("Thank You.😍", "Your donation is successfully added.", "success");
       } else {
